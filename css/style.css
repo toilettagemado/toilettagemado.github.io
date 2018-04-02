@@ -11,6 +11,10 @@ nav .brand-logo {
   color: #444;
 }
 
+nav ul a:hover {
+  background-color: #ef9a9a;
+}
+
 p {
   line-height: 2rem;
 }
@@ -59,4 +63,15 @@ footer.page-footer {
 
 #slogan {
   margin-top:15%;
+}
+
+#map {
+  height:200px;
+}
+.short-sentences {
+  background-color:rgba(239, 83, 80, 0.5);
+}
+
+.logo-image {
+  width:18rem;
 }
